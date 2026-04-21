@@ -4,3 +4,4 @@ def ft_count_harvest_iterative():
     display = range(1, day)
     for n in display:
         print(f"Day {n}")
+    print("Harvest time!")
